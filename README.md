@@ -13,12 +13,9 @@
   <a href="https://twitter.com/tonikin3" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
   </a>
-  <!-- UNCOMMENT AND ADD YOUR LINKEDIN IF YOU HAVE ONE -->
-  <!--
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-antonio-gonzalez-llambia-85aa9b183" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  -->
 </div>
 
 ---
@@ -28,6 +25,7 @@
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | 💬 **webchat** | A real-time chat application built with Go, WebSockets, and a clean architecture. | [**View Repository**](https://github.com/TonyGLL/webchat) |
+| 💬 **Clean architecture** | Backend with Clean Architecture, Node.js E-Commerce API | [**View Repository**](https://github.com/TonyGLL/clean-architecture-nodejs) |
 | 🗃️ **erp_backend** | Backend for a modular ERP in Go, covering payroll, inventory, and accounting modules. | [**View Repository**](https://github.com/TonyGLL/erp_backend) |
 | 🎨 **portfolio** | My personal portfolio built with Angular and deployed to GitHub Pages. | [**View Demo**](https://tonygll.github.io/portfolio-angular) |
 | ⚡ **caching-proxy-server** | A high-performance reverse proxy server with a caching system, implemented in Go. | [**View Repository**](https://github.com/TonyGLL/caching-proxy-server) |
