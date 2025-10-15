@@ -7,7 +7,7 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://tonygll.github.io/portfolio-angular" target="_blank">
+  <a href="https://www.tgldev.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/tonikin3" target="_blank">
