@@ -25,8 +25,7 @@
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | 💬 **webchat** | A real-time chat application built with Go, WebSockets, and a clean architecture. | [**View Repository**](https://github.com/TonyGLL/webchat) |
-| 💬 **Clean architecture** | Backend with Clean Architecture, Node.js E-Commerce API | [**View Repository**](https://github.com/TonyGLL/clean-architecture-nodejs) |
-| 🗃️ **erp_backend** | Backend for a modular ERP in Go, covering payroll, inventory, and accounting modules. | [**View Repository**](https://github.com/TonyGLL/erp_backend) |
+| 🗃️ **Clean architecture** | Backend with Clean Architecture, Node.js E-Commerce API | [**View Repository**](https://github.com/TonyGLL/clean-architecture-nodejs) |
 | 🎨 **portfolio** | My personal portfolio built with Angular and deployed to GitHub Pages. | [**View Demo**](https://tonygll.github.io/portfolio-angular) |
 | ⚡ **caching-proxy-server** | A high-performance reverse proxy server with a caching system, implemented in Go. | [**View Repository**](https://github.com/TonyGLL/caching-proxy-server) |
 
